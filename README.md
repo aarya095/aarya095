@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
   </a>
   <a href="mailto:aarya.work005@gmail.com">
-  <img src="https://img.shields.io/badge/email-contact%40example.com-blue?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/aarya.work005@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
 
