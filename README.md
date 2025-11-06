@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Aarya!</h2>
+<h1 align="center">👋 Hello! I'm Aarya!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aarya-sarfare/">
