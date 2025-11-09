@@ -13,7 +13,7 @@
 </p>
 
 <p>Welcome to my profile! I'm an IT Engineering student, an Aspiring Cybersecurity Professional.</p>
-<p>🌱 Currently, I am building a strong foundation in Linux, Networking, Scripting, and Security fundamentals. I'm also exploring Capture the Flag (CTF) challenges and ethical hacking concepts. </p>
+<p>🌱 Currently, I am building a strong foundation in Linux, Networking, Scripting, and Security fundamentals, while also exploring Data Engineering concepts, Capture the Flag (CTF) challenges, and practical cybersecurity techniques. </p>
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=dark&hide_border=true)
