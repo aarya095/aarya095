@@ -13,7 +13,7 @@
 </p>
 
 <p>Welcome to my profile! I'm an IT Engineering student passionate about Cybersecurity and Full Stack Development, with growing interest in Data Engineering.</p>
-<p>🌱 Currently, I’m building a strong foundation in Linux, Networking, Scripting, and Security fundamentals, while also exploring Full Stack projects, Data Engineering concepts, Capture the Flag (CTF) challenges, and practical cybersecurity techniques.</p>
+<p>🌱 Currently, I’m building a strong foundation in Linux, Programming, Scripting, and Security fundamentals, while also exploring Full Stack projects, Data Engineering concepts, Capture the Flag (CTF) challenges, and practical cybersecurity techniques.</p>
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=dark&hide_border=true)
