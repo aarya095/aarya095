@@ -17,6 +17,7 @@
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=dark&hide_border=true&hide=html,css" height="200" width="300" alt="Top Languages">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarya095&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
