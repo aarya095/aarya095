@@ -25,13 +25,6 @@
 
 <p align="center">
   <img 
-    src="![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aarya095)" 
-    alt="Coding Activity"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=aarya095&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&card_width=450" 
     alt="GitHub Streak"
   />
