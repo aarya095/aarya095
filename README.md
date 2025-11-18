@@ -15,6 +15,13 @@
 <p>Welcome to my profile! I'm an IT Engineering student passionate about Cybersecurity and Full Stack Development, with growing interest in Data Engineering.</p>
 <p>🌱 Currently, I’m building a strong foundation in Python, Linux, Bash Scripting, and Security fundamentals, while also exploring Full Stack projects, Data Engineering concepts, Capture the Flag (CTF) challenges, and practical cybersecurity techniques.</p>
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
+
+<h2>🧱 Tech Stack</h2>
+
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=dark&hide=html,css&text_color=fff" 
@@ -26,13 +33,6 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=aarya095&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&card_width=450" 
     alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=aarya095&color=grey" 
-    alt="Visitor Count"
   />
 </p>
 
