@@ -29,6 +29,6 @@
   />
 </p>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarya095&show_icons=true&count_private=true&hide_title=true)
 
 
