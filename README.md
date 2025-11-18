@@ -11,8 +11,9 @@
   <img src="https://img.shields.io/badge/aarya.work005@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
   <a href="https://aarya095.github.io/aarya.github.io/">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge& height=25>
-</a>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge& height=25> 
+
+  </a>  
 </p>
 
 <p>Welcome to my profile! I'm an IT Engineering student passionate about Cybersecurity and Full Stack Development, with growing interest in Data Engineering.</p>
