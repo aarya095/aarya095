@@ -18,14 +18,14 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=holi&hide=html,css&langs_count=2" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=vision-friendly-dark&hide=html,css&langs_count=2" 
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aarya095&theme=holi&count_private=true&card_width=450" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aarya095&theme=vision-friendly-dark&count_private=true&card_width=450" 
     alt="GitHub Streak"
   />
 </p>
