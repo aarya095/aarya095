@@ -16,15 +16,9 @@
 <p>🌱 Currently, I’m building a strong foundation in Python, Linux, Bash Scripting, and Security fundamentals, while also exploring Full Stack projects, Data Engineering concepts, Capture the Flag (CTF) challenges, and practical cybersecurity techniques.</p>
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
 
-<h2>🧱 Tech Stack</h2>
-
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=dark&hide=html,css&text_color=fff" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=dark&hide=html,css&text_color=fff&langs_count=8" 
     alt="Top Languages"
   />
 </p>
@@ -36,4 +30,9 @@
   />
 </p>
 
-
+<p align="center">
+  <img 
+    src="![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aarya095)" 
+    alt="Wake Time"
+  />
+</p>
