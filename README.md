@@ -18,7 +18,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=codeSTACKr&hide=html,css&langs_count=2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=codeSTACKr&hide=html,css&langs_count=2" 
     alt="Top Languages"
   />
 </p>
