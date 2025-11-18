@@ -25,7 +25,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aarya095&theme=shadow_red&count_private=true&card_width=450" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aarya095&theme=react&count_private=true&card_width=450" 
     alt="GitHub Streak"
   />
 </p>
