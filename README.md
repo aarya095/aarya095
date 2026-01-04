@@ -19,10 +19,7 @@ IT Engineering student focused on Python-based backend development with an inter
 Hands-on experience building modular Python applications involving databases, CRUD operations, input validation, encryption of sensitive data, and clean project structuring. Actively transitioning from CLI-based systems to API-driven backend services.
 </p>
 <p>
-Technical interests include backend engineering, secure coding practices, web application vulnerabilities (SQLi, XSS, auth flaws), and foundational data handling concepts.
-</p>
-<p>
-This GitHub profile documents practical projects, experiments, and learning artifacts as I prepare for backend and security-focused roles.
+This GitHub profile documents practical projects, experiments, and learning artifacts as I prepare for backend and security-focused internship roles.
 </p>
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
 
