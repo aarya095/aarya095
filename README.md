@@ -12,10 +12,6 @@
 </a>
 </p>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=aarya095&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
 <p>Welcome to my profile!
 IT Engineering student focused on Python-based backend development with an interest in secure application design and web application security.
 </p>
