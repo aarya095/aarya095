@@ -21,6 +21,26 @@ Hands-on experience building modular Python applications involving databases, CR
 <p>
 This GitHub profile documents practical projects, experiments, and learning artifacts as I prepare for backend and security-focused internship roles.
 </p>
+
+<h2>🛠 Tech Stack</h2>
+
+<h3>Languages</h3>
+<ul>
+  <li>Python</li>
+</ul>
+
+<h3>Databases</h3>
+<ul>
+  <li><b>SQL databases</b>: MySQL, Sqlite</li>
+</ul>
+
+<h3>Tools & Dev Environment</h3>
+<ul>
+  <li>Git version control</li>
+  <li>Visual Studio Code</li>
+  <li><b>Operating Systems</b>: Windows, Linux (Debian-based: Ubuntu, Linux Mint, and Kali)</li>
+</ul>
+
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
 
 <p align="center">
