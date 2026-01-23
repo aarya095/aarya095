@@ -39,6 +39,7 @@ This GitHub profile documents practical projects, experiments, and learning arti
   <li>Git version control</li>
   <li>Visual Studio Code</li>
   <li><b>Operating Systems</b>: Windows, Linux (Debian-based: Ubuntu, Linux Mint, and Kali)</li>
+  <li><b>Shells</b>: Bash (linux), Windows Command Prompt</li>
 </ul>
 
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
