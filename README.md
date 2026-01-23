@@ -16,7 +16,7 @@
 IT Engineering student focused on Python-based backend development with an interest in secure application design and web application security.
 </p>
 <p>
-Hands-on experience building modular Python applications involving databases, CRUD operations, input validation, encryption of sensitive data, and clean project structuring. Actively transitioning from CLI-based systems to API-driven backend services.
+Hands-on experience building modular Python applications involving databases,CRUD operations, input validation, encryption of sensitive data, and clean project structuring.
 </p>
 <p>
 This GitHub profile documents practical projects, experiments, and learning artifacts as I prepare for backend and security-focused internship roles.
