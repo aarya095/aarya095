@@ -38,7 +38,7 @@ This GitHub profile documents practical projects, experiments, and learning arti
 <ul>
   <li>Git version control</li>
   <li>Visual Studio Code</li>
-  <li><b>Operating Systems</b>: Windows, Linux (Debian-based: Ubuntu, Linux Mint, and Kali)</li>
+  <li><b>Operating Systems</b>: Windows, Linux</li>
   <li><b>Shells</b>: Bash (linux), Windows Command Prompt</li>
 </ul>
 
