@@ -37,9 +37,7 @@ This GitHub profile documents practical projects, experiments, and learning arti
 <h3>Tools & Dev Environment</h3>
 <ul>
   <li>Git version control</li>
-  <li>Visual Studio Code</li>
   <li><b>Operating Systems</b>: Windows, Linux</li>
-  <li><b>Shells</b>: Bash (linux), Windows Command Prompt</li>
 </ul>
 
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
