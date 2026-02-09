@@ -10,13 +10,13 @@
 </p>
 
 <p>Welcome to my profile!
-IT Engineering student focused on Python-based backend development with an interest in secure application design and web application security.
+IT Engineering student focused on Python-based backend development.
 </p>
 <p>
 Hands-on experience building modular Python applications involving databases,CRUD operations, input validation, encryption of sensitive data, and clean project structuring.
 </p>
 <p>
-This GitHub profile documents practical projects, experiments, and learning artifacts as I prepare for backend and security-focused internship roles.
+This GitHub profile documents practical projects, experiments, and learning artifacts.
 </p>
 
 <h2>🛠 Tech Stack</h2>
