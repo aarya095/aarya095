@@ -13,7 +13,7 @@
 IT Engineering student focused on Python-based backend development.
 </p>
 <p>
-Hands-on experience building modular Python applications involving databases,CRUD operations, input validation, encryption of sensitive data, and clean project structuring.
+Hands-on experience building modular Python applications involving databases, CRUD operations, input validation, encryption of sensitive data, and clean project structuring.
 </p>
 <p>
 This GitHub profile documents practical projects, experiments, and learning artifacts.
