@@ -6,7 +6,10 @@
   </a> 
   <a href="mailto:aarya.work005@gmail.com">
   <img src="https://img.shields.io/badge/aarya.work005@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
+  </a>
+  <a href="https://medium.com/@aarya-sarfare">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+  </a>
 </p>
 
 <p>Welcome to my profile!
