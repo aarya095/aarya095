@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/aarya.work005@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
   <a href="https://medium.com/@aarya-sarfare">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white" height=25>
   </a>
 </p>
 
