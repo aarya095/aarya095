@@ -39,6 +39,11 @@ This GitHub profile documents practical projects, experiments, and learning arti
   <li><b>Databases/ORM</b>: PostgreSQL, MySQL, Sqlite, SQLAlchemyORM</li>
 </ul>
 
+<h3>Querying Languages</h3>
+<ul>
+  <li>SQL</li>
+</ul>
+
 <h3>Tools & Dev Environment</h3>
 <ul>
   <li>Git version control, Github, Visual Studio Code</li>
