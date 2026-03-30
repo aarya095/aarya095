@@ -29,14 +29,19 @@ This GitHub profile documents practical projects, experiments, and learning arti
   <li>Python</li>
 </ul>
 
+<h3>Web Framwork</h3>
+<ul>
+  <li>FastAPI</li>
+</ul>
+
 <h3>Databases</h3>
 <ul>
-  <li><b>SQL databases</b>: MySQL, Sqlite</li>
+  <li><b>Databases/ORM</b>: PostgreSQL, MySQL, Sqlite, SQLAlchemyORM</li>
 </ul>
 
 <h3>Tools & Dev Environment</h3>
 <ul>
-  <li>Git version control</li>
+  <li>Git version control, Github, Visual Studio Code</li>
   <li><b>Operating Systems</b>: Windows, Linux</li>
 </ul>
 
