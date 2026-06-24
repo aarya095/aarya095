@@ -22,8 +22,6 @@ Hands-on experience building modular Python applications involving databases, CR
 This GitHub profile documents practical projects, experiments, and learning artifacts.
 </p>
 
-<h2>🛠 Core Technologies</h2>
-
 <h2 align="center">🛠 Core Technologies</h2>
 
 <p align="center">
@@ -46,12 +44,12 @@ I'm continuously learning and improving as a backend developer. If you come acro
 
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
 
-<!--<p align="center">
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarya095&layout=compact&theme=dark&hide=html,css&langs_count=2&text_color=fff&title_color=fff" 
     alt="Top Languages"
   />
-</p>-->
+</p>
 
 <p align="center">
   <img 
