@@ -24,12 +24,9 @@ This GitHub profile documents practical projects, experiments, and learning arti
 
 <h2>🛠 Tech Stack</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,sqlite,git,linux,vscode" />
+</p>
 
 <h2>💬 Feedback Welcome</h2>
 
