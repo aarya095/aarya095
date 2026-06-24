@@ -22,7 +22,7 @@ Hands-on experience building modular Python applications involving databases, CR
 This GitHub profile documents practical projects, experiments, and learning artifacts.
 </p>
 
-<h2 align="center">🛠 Core Technologies</h2>
+<h2>🛠 Core Technologies</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
