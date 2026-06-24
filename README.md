@@ -24,31 +24,12 @@ This GitHub profile documents practical projects, experiments, and learning arti
 
 <h2>🛠 Tech Stack</h2>
 
-<h3>Languages</h3>
-<ul>
-  <li>Python</li>
-</ul>
-
-<h3>Web Framwork</h3>
-<ul>
-  <li>FastAPI</li>
-</ul>
-
-<h3>Databases</h3>
-<ul>
-  <li><b>Databases/ORM</b>: PostgreSQL, MySQL, Sqlite, SQLAlchemyORM</li>
-</ul>
-
-<h3>Querying Languages</h3>
-<ul>
-  <li>SQL</li>
-</ul>
-
-<h3>Tools & Dev Environment</h3>
-<ul>
-  <li>Git version control, Github, Visual Studio Code</li>
-  <li><b>Operating Systems</b>: Windows, Linux</li>
-</ul>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 <h2>💬 Feedback Welcome</h2>
 
