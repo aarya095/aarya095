@@ -27,6 +27,11 @@ This GitHub profile documents practical projects, experiments, and learning arti
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,sqlite,git,linux,vscode" />
 </p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+</p>
 
 <h2>💬 Feedback Welcome</h2>
 
