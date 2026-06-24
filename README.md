@@ -50,6 +50,12 @@ This GitHub profile documents practical projects, experiments, and learning arti
   <li><b>Operating Systems</b>: Windows, Linux</li>
 </ul>
 
+<h2>💬 Feedback Welcome</h2>
+
+<p>
+I'm continuously learning and improving as a backend developer. If you come across one of my projects and notice opportunities to improve code quality, architecture, Python best practices, API design, or documentation, constructive feedback is always appreciated.
+</p>
+
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/aarya-sarfare/">connect</a>.</p>
 
 <!--<p align="center">
