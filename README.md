@@ -36,7 +36,7 @@ This GitHub profile documents practical projects, experiments, and learning arti
 <h2>💬 Feedback Welcome</h2>
 
 <p>
-I'm continuously learning and improving as a backend developer. If you come across one of my projects and notice opportunities to improve code quality, architecture, Python best practices, API design, or documentation, constructive feedback is always appreciated.
+I'm continuously learning and improving as a backend developer. If you come across one of my projects and notice opportunities to improve code quality, architecture, best practices, API design, or documentation, constructive feedback is always appreciated.
 </p>
 
 <p align="center">
