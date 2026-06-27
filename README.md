@@ -16,8 +16,8 @@
 
 <h2>About me</h2>
 <p>
-Hands-on experience building modular Python applications involving databases, CRUD operations, input validation, encryption of sensitive data, and clean project structuring.
-</p>
+Hands-on experience building backend-focused applications involving REST APIs, databases, CRUD operations, testing, encryption, logging, and modular application architecture.    
+I enjoy learning by building practical projects and continuously improving my understanding of backend technologies, development workflows, and software design principles.
 <p>
 This GitHub profile documents practical projects, experiments, and learning artifacts.
 </p>
