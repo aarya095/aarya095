@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello! I'm Aarya!</h1>
 
-<p align="center"> IT Engineering student focused on Python-based backend development. </p>
+<p align="center"> IT Engineering student interested in building software and
+understanding how the pieces behind it actually work. </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aarya-sarfare/">
@@ -14,15 +15,19 @@
   </a>
 </p>
 
-<h2>About me</h2>
+<h2>A little about me</h2>
 <p>
-Hands-on experience building backend-focused applications involving REST APIs, databases, CRUD operations, testing, encryption, logging, and modular application architecture.    
+I'm primarily interested in backend development with Python.
+I enjoy building APIs, working with databases, and figuring out how
+different parts of a system fit together.  
 </p>
 <p>
-I enjoy learning by building practical projects and continuously improving my understanding of backend technologies, development workflows, and software design principles.
+I learn mostly by building rather than just following tutorials.
+A project usually starts simple, then becomes an excuse to learn
+something I didn't understand before.
 </p>
 
-<h2>🛠 Core Technologies</h2>
+<h2>🛠 What I'm working with</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,10 +38,21 @@ I enjoy learning by building practical projects and continuously improving my un
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+<h2>What I'm interested in</h2>
+- Backend and API development
+- Databases and data modeling
+- Software architecture
+- Linux and developer tooling
+- Automation
+- Understanding how systems work under the hood
+
 <h2>💬 Feedback Welcome</h2>
 
 <p>
-I'm continuously learning and improving as a backend developer. If you come across one of my projects and notice opportunities to improve code quality, architecture, best practices, API design, or documentation, feedback is always appreciated.
+Most of my projects are learning exercises, so I'm always interested
+in thoughtful feedback—especially around architecture, API design,
+code quality, testing, and ways I could have approached something
+differently.
 </p>
 
 <p align="center">
