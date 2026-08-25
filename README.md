@@ -17,13 +17,11 @@ understanding how the pieces behind it actually work. </p>
 
 <h2>A little about me</h2>
 <p>
-I'm primarily interested in backend development with Python.
-I enjoy building APIs, working with databases, and figuring out how
+I'm primarily interested in backend development with Python. I enjoy building APIs, working with databases, and figuring out how
 different parts of a system fit together.  
 </p>
 <p>
-I learn mostly by building rather than just following tutorials.
-A project usually starts simple, then becomes an excuse to learn
+I learn mostly by building rather than just following tutorials. A project usually starts simple, then becomes an excuse to learn
 something I didn't understand before.
 </p>
 
@@ -39,20 +37,19 @@ something I didn't understand before.
 </p>
 
 <h2>What I'm interested in</h2>
-- Backend and API development
-- Databases and data modeling
-- Software architecture
-- Linux and developer tooling
-- Automation
-- Understanding how systems work under the hood
+<ul>
+  <li>Backend and API development</li>
+  <li>Software architecture</li>
+  <li>Linux and developer tooling</li>
+  <li>Automation</li>
+  <li>Understanding how systems work under the hood</li>
+</ul>
 
 <h2>💬 Feedback Welcome</h2>
 
 <p>
-Most of my projects are learning exercises, so I'm always interested
-in thoughtful feedback—especially around architecture, API design,
-code quality, testing, and ways I could have approached something
-differently.
+Most of my projects are learning exercises, so I'm always interested in thoughtful feedback—especially around architecture, API design,
+code quality, testing, and ways I could have approached something differently.
 </p>
 
 <p align="center">
