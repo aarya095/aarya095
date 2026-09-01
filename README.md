@@ -25,7 +25,7 @@ I learn mostly by building rather than just following tutorials. A project usual
 something I didn't understand before.
 </p>
 
-<h2>🛠 What I'm working with</h2>
+<h2>What I'm working with</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,7 +45,7 @@ something I didn't understand before.
   <li>Understanding how systems work under the hood</li>
 </ul>
 
-<h2>💬 Feedback Welcome</h2>
+<h2>Feedback Welcome</h2>
 
 <p>
 Most of my projects are learning exercises, so I'm always interested in thoughtful feedback—especially around architecture, API design,
