@@ -45,13 +45,6 @@ something I didn't understand before.
   <li>Understanding how systems work under the hood</li>
 </ul>
 
-<h2>Feedback Welcome</h2>
-
-<p>
-Most of my projects are learning exercises, so I'm always interested in thoughtful feedback—especially around architecture, API design,
-code quality, testing, and ways I could have approached something differently.
-</p>
-
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=aarya095&theme=dark&count_private=true&card_width=450" 
